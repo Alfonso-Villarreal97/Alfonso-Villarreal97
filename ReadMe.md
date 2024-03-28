@@ -2,6 +2,10 @@
 <h3 align="center">A passionate developer and student of Computing Engineering from Mexico</h3>
 
 <h3 align="left">Connect with me:</h3>
+    <ol>
+        <a href="www.linkedin.com/in/alfonso-villarreal97" target="_blank" rel="noreferrer"></a>
+        <img src="https://www.flaticon.com/free-icon/linkedin_174857" alt="linkedin" width="40"height="40"/>
+    </ol>
 <p align="left">
 </p>
 
