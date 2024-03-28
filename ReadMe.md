@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
     <ol>
         <a href="www.linkedin.com/in/alfonso-villarreal97" target="_blank" rel="noreferrer"></a>
-        <img src="https://www.flaticon.com/free-icon/linkedin_174857" alt="linkedin" width="40"height="40"/>
+        <i class="bi bi-linkedin"></i>
     </ol>
 <p align="left">
 </p>
