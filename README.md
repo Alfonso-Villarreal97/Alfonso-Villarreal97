@@ -1,8 +1,8 @@
 ## Hi ✌️, I'm Alfonso Villarreal
-I'm an passionate developer and student of Computing Engineering in IPN - UPIICSA, México.
+I'm a passionate developer and student of Computing Engineering in IPN - UPIICSA, México.
 * Currently:
-  * I'm reforzing my knowledge in Java and Springboot with Oracle + Alura scholarship.☕
-  * I'm realizing my social service by developing Web Pages with the holy trinity (HTML, CSS and JS). 
+  * I'm learning about Cloud with Google Cloud Foundations. ☁
+  * As the same way, I'm reforzing my knowledge in: Python, Django and Algorithms and Data Structures
 * In the past:
   * I've worked in projects from Claro brand family, in the following products: Videoconferencia Claro and Claro Drive. 👨‍💻
 
