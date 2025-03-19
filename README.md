@@ -1,4 +1,4 @@
-## Hi ✌️, I'm Diego Villarreal
+<h2 style="text-align: center;"> Hello There ✌️</h2>
 I'm a passionate developer and student of Computing Engineering in IPN - UPIICSA, México.
 * Currently:
   * I'm learning about Cloud with Google Cloud Foundations. ☁
