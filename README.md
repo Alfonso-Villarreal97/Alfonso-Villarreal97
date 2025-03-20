@@ -1,11 +1,8 @@
 <h2 align="center">Hello there!✌🏼<br/> Poncho has join to the battle! ⛩️</h2>
-<p align="center"> Computing Engineering Graduate | UPIICSA-IPN </p>
-
-<!-- Pendiente subir mi foto 
 <p align="center">
- 
+ <img src="https://github.com/user-attachments/assets/e11d54ce-2e94-469c-83bc-0be6e7a21816" alt="Yo" width=300 height=300 />
 </p>
--->
+<p align="center"> Computing Engineering Graduate | UPIICSA-IPN </p>
 
 <h2 align="left">About me</h2>
 
@@ -21,7 +18,7 @@
 * 🎭 Bad jokes speaker
 
 <h2 align="left">Currently I'm...</h2>
- 
+
 * ☁️ Learning about GCP
 * 🐍 Leaning Python
 * 🗽 Improving my english
