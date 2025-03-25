@@ -1,4 +1,4 @@
-<h2 align="center">Hello there!✌🏼<br/> Poncho has join to the battle! ⛩️</h2>
+<h2 align="center">Hello there!✌🏼<br/> Poncho has joined to battle! ⛩️</h2>
 <p align="center">
  <img src="https://github.com/user-attachments/assets/e11d54ce-2e94-469c-83bc-0be6e7a21816" alt="Yo" width=300 height=300 />
 </p>
