@@ -2,7 +2,7 @@
 <p align="center">
  <img src="https://github.com/user-attachments/assets/e11d54ce-2e94-469c-83bc-0be6e7a21816" alt="Yo" width=300 height=300 />
 </p>
-<p align="center"> Computing Engineering Graduate | UPIICSA-IPN </p>
+<p align="center"> Computer Engineering Graduate | UPIICSA-IPN </p>
 
 <h2 align="left">About me</h2>
 
